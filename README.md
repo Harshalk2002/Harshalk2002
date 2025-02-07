@@ -1,13 +1,28 @@
-👋 Hi, I’m @HarshalKamble
+# Hi, I'm Harshal Kamble! 👋
 
-👀 I’m passionate about leveraging data science to drive insights and innovation, with a keen interest in machine learning, predictive analytics, and data visualization.
+## 🚀 About Me
+I'm passionate about **leveraging data science and AI** to drive insights and innovation. My expertise spans **machine learning, predictive analytics, and data visualization**. Currently, I’m pursuing my **Master’s in Data Science and Analytics**, focusing on **cutting-edge techniques in machine learning and big data analytics**.
 
-🌱 I’m currently advancing my skills in data science through a master’s program, focusing on cutting-edge techniques in machine learning and big data analytics.
+### **🎓 Education**
+- **📍 Georgia State University** – Master's in **Data Science and Analytics** (2024-2025)
+- **📍 MIT School of Distance Learning** – Postgraduate **Business Analytics** (2023-2024)
+- **📍 Pune University** – Bachelor's in **Computer Science** (2020-2023)
 
-💞️ I’m looking to collaborate on impactful data science projects, particularly those that involve Python, data visualization, and applying statistical methods to solve complex problems.
+### **🛠️ Technical Skills**
+- **Programming:** Python, R, SQL, DAX
+- **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB, AWS
+- **Tools & Frameworks:** Tableau, Power BI, Matplotlib, Seaborn, Excel, Databricks
+- **Machine Learning:** Isolation Forests, Decision Trees, Regression, Clustering, Time Series, NLP
+- **Libraries:** Scikit-Learn, TensorFlow, NumPy, Pandas, DAX
 
-📫 How to reach me: Linked In:- https://www.linkedin.com/in/harshalka/   Gmail:- harshalkamble2511@gmail.com
+### **📜 Certifications**
+- 🏆 **Microsoft Certified: Power BI Data Analyst Associate (PL300)** – Expires Oct 2025
 
-😄 Pronouns: He/Him
+### **🌱 Let's Connect!**
+- **LinkedIn:** [linkedin.com/in/harshalka/](https://www.linkedin.com/in/harshalka/)
+- **GitHub:** [github.com/Harshalk2002](https://github.com/Harshalk2002)
+- **Portfolio:** [harshalk2002.github.io/Portfolio](https://harshalk2002.github.io/Portfolio/)
+- 📩 **Email:** harshalkamble2511@gmail.com
 
-⚡ Fun fact: When I'm not diving into data, I enjoy the thrill of motorbike racing and exploring new places on weekend rides.
+### **⚡ Fun Fact**
+When I'm not diving into data, I enjoy the **thrill of motorbike racing** and **exploring new places on weekend rides**! 🏍️✨
