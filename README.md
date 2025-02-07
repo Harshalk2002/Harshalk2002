@@ -20,7 +20,6 @@ I'm passionate about **leveraging data science and AI** to drive insights and in
 
 ### **🌱 Let's Connect!**
 - **LinkedIn:** [linkedin.com/in/harshalka/](https://www.linkedin.com/in/harshalka/)
-- **GitHub:** [github.com/Harshalk2002](https://github.com/Harshalk2002)
 - **Portfolio:** [harshalk2002.github.io/Portfolio](https://harshalk2002.github.io/Portfolio/)
 - 📩 **Email:** harshalkamble2511@gmail.com
 
