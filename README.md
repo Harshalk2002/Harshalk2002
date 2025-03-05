@@ -5,7 +5,7 @@ I'm passionate about **leveraging data science and AI** to drive insights and in
 
 ### **🎓 Education**
 - **📍 Georgia State University** – Master's in **Data Science and Analytics** (2024-2025)
-- **📍 MIT School of Distance Learning** – Postgraduate **Business Analytics** (2023-2024)
+- **📍 MIT ** – Postgraduate **Business Analytics** (2023-2024)
 - **📍 Pune University** – Bachelor's in **Computer Science** (2020-2023)
 
 ### **🛠️ Technical Skills**
