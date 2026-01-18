@@ -17,7 +17,7 @@ Currently leveraging my expertise at **Shepherd Center**, where I apply advanced
 
 ## 💼 Professional Experience
 
-### **Data Analyst** @ Shepherd Center *(Sep 2025 - Present)*
+### **Data Analyst** @ Shepherd Center *(Sep 2025 - Dec 2025)*
 - Built SQL-powered analytical dashboards tracking patient progression KPIs across 5 rehabilitation programs, reducing executive reporting cycles by **35%**
 - Developed predictive analytics models identifying care pathway inefficiencies in real-time, improving operational efficiency by **12%**
 - Analyzed 1,600+ ABI patient records using Python and SQL, identifying therapy intensity patterns linked to **40-50 point functional outcome improvements**
